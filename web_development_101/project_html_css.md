@@ -680,6 +680,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [Todd Demone's Solution] (https://github.com/todd-demone/google-homepage) | [View in Browser] (http://htmlpreview.github.io/?https://github.com/todd-demone/google-homepage/blob/master/index.html)
 * [Kenneth Curtis's Solution (Easy)]( https://github.com/kmcurtis915/google-homepage) | [View in Browser](https://htmlpreview.github.io/?https://github.com/kmcurtis915/google-homepage/blob/master/index.html)
 * [Seiji's Solution (Easy)](https://github.com/seijibas/google-homepage) | [View in Browser](http://seijibas.github.io/google-homepage/)
+* [Benji's Solution (Easy)](https://github.com/DarkeBlayze/google-homepage) | [View in Browser](https://htmlpreview.github.io/?https://github.com/DarkeBlayze/google-homepage/blob/master/Index.html)
 * Add your solution above this line!
 
 ## Additional Resources 
